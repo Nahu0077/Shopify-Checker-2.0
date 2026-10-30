@@ -48,7 +48,7 @@ from mass_gates.sitechk import (
 
 import payments as pay_sys
 
-BOT_TOKEN = "8857390114:AAGoUvu6d2S-rkZ_DaMhWePCYeJk0eQsPoA"
+BOT_TOKEN = "8078746989:AAH2hQv-27wkds_rV0qWJ8xsETnorQzGsT4"
 WEBHOOK_URL = f"https://web-production-c2d03.up.railway.app/{BOT_TOKEN}"
 WEBHOST = "0.0.0.0"
 WEBPORT = 8080
